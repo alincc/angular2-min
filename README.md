@@ -1,4 +1,5 @@
 # Angular2 Min Development Environment
+Angular2 development environment with TypeScript.
 
 ### How to run:
 1. run `git clone http://github.com/alincc/angular2-min.git`
