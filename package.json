@@ -1,0 +1,43 @@
+{
+  "name": "angular2-min",
+  "version": "1.0.0",
+  "description": "Angular2 development env using TypeScript",
+  "author": "Alin Capitanescu (alincc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alincc/angular2-min/issues"
+  },
+  "homepage": "https://github.com/alincc/angular2-min#readme",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "angular2": "2.0.0-beta.3",
+    "angular2-polyfill": "0.0.2",
+    "es6-shim": "0.33.3",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.0",
+    "zone.js": "0.5.11"
+  },
+  "devDependencies": {
+    "expose-loader": "0.7.1",
+    "ts-loader": "0.8.0",
+    "typescript": "1.7.5",
+    "webpack": "1.12.12",
+    "webpack-dev-server": "1.14.1"
+  },
+  "scripts": {
+    "prestart": "npm install",
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alincc/angular2-min.git"
+  },
+  "keywords": [
+    "angular2",
+    "typescript",
+    "webpack",
+    "sass",
+    "minimal",
+    "starter"
+  ]
+}
