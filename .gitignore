@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # IntelliJ Idea
 .idea
 
+=======
+>>>>>>> 2ac5c9dab94c44ef0da9e443dcb22da9b3c1f1cc
 # Logs
 logs
 *.log
@@ -33,4 +36,8 @@ node_modules
 .npm
 
 # Optional REPL history
+<<<<<<< HEAD
 .node_repl_history
+=======
+.node_repl_history
+>>>>>>> 2ac5c9dab94c44ef0da9e443dcb22da9b3c1f1cc
