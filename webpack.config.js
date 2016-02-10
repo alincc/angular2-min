@@ -1,7 +1,7 @@
 var path = require('path');
 
 module.exports = {
-  context:path.join( __dirname, '/src'),
+  context: path.join( __dirname, '/src'),
   entry: 'main.ts',
   
   // Source maps support (or 'inline-source-map' also works)
